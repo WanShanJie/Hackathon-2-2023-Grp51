@@ -129,7 +129,7 @@ This member function searches for a move in the move list based on the provided 
 
 6. **Add new moves**
 - Able to add move, then add it(maximum is 5 move)
-![add move (2)](https://github.com/WanShanJie/Hackathon-2-2023-Grp51/assets/137881290/d9332fee-583e-40c7-a881-8d0b95dcdfd5)
+![add move (2)](https://github.com/WanShanJie/Hackathon-2-2023-Grp51/assets/137881290/e8156b26-124e-433c-abb8-bee9d3d886e4)
 
 - If the moves are more than 5, the player will be prompted to delete a move so that it maintains in 5 moves
 ![delte move (2)](https://github.com/WanShanJie/Hackathon-2-2023-Grp51/assets/137881290/8e874451-6766-4037-a906-b4a4a8fd0fb8)
