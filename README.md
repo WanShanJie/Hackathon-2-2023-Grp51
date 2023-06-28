@@ -94,8 +94,13 @@ Templates allow writing the code that can work with different data types. The Li
 The LinkedList class is utilized to create a list of Move objects in the Hero class. The moveList object represents the moves that the Hero can learn and use during the game. The LinkedList allows for dynamic insertion, deletion, and traversal of moves. It provides methods such as insertNode(), deleteNode(), searchNode(), and displayList() to manage the moves.
 
 1. 'ListNode' class represents a single node in the linked list. It contains two members: value, which stores the actual data, and 'next', which is a pointer to the next node in the list.
-2. The LinkedList class represents the linked list itself. It has a private member head, which is a pointer to the first node in the list, and an integer num to keep track of the number of nodes in the list.
-3. 
+2. The 'LinkedList' class represents the linked list itself. It has a private member 'head', which is a pointer to the first node in the list, and an integer 'num' to keep track of the number of nodes in the list.
+- appendNode:   
+  The appendNode member function accept
+- insertNode
+- deleteNode
+- searchNode
+- displayList
 ## Screenshots of game   
 
 
