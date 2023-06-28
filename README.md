@@ -104,13 +104,13 @@ This member function searches for a move in the move list based on the provided 
 ## Screenshots of game   
 1. Display the menu of the game and choce 1 to strat a game
 ![display game menu (2)](https://github.com/WanShanJie/Hackathon-2-2023-Grp51/assets/137881290/9388b443-5727-497c-aeaa-516709755d1c)
-3. The stroyline of the game is shown and choose a hero based on its background/ abilities.
+2. The stroyline of the game is shown and choose a hero based on its background/ abilities.
 ![storline game (2)](https://github.com/WanShanJie/Hackathon-2-2023-Grp51/assets/137881290/93b6fdb9-aed3-4ca3-9c7f-067b016ca63c)
 
-4. The three moves of hero will be added. Then, it will display 5 choices which you can continue the adventure/ show player's information/ add new moves/ save progress/ quit
+3. The three moves of hero will be added. Then, it will display 5 choices which you can continue the adventure/ show player's information/ add new moves/ save progress/ quit
 ![choose a hero (2)](https://github.com/WanShanJie/Hackathon-2-2023-Grp51/assets/137881290/aa251988-25fe-4801-854b-7fa637e80edf)
 
-6. **Choose to continue the adventure**
+4. **Choose to continue the adventure**
    - Meet the 1st monster(globin) to beginner(tutorial). Choose a available move from the list of move. Attack the globin, the health of monster/ hero is shown. Then, the status of hero and monster is displayed
   ![Attack (2)](https://github.com/WanShanJie/Hackathon-2-2023-Grp51/assets/137881290/ba88945e-bbf0-42ee-8cbb-f6e2c3ca1a77)
 
@@ -123,29 +123,29 @@ This member function searches for a move in the move list based on the provided 
    - Choose a path and to defeat first or second monster
   ![path choosing (2)](https://github.com/WanShanJie/Hackathon-2-2023-Grp51/assets/137881290/1d9f9772-5068-4cc1-8a84-e60875d09461)
 
-8. **Choose to show player's information**
+5. **Choose to show player's information**
 - display the status of the player and the current move
 ![display the player info (2)](https://github.com/WanShanJie/Hackathon-2-2023-Grp51/assets/137881290/c20864a6-c6c5-47cb-9663-88e787c398c4)
 
-9. **Add new moves**
+6. **Add new moves**
 - Able to add move, then add it(maximum is 5 move)
 ![add move (2)](https://github.com/WanShanJie/Hackathon-2-2023-Grp51/assets/137881290/d9332fee-583e-40c7-a881-8d0b95dcdfd5)
 
 - If the moves are more than 5, the player will be prompted to delete a move so that it maintains in 5 moves
 ![delte move (2)](https://github.com/WanShanJie/Hackathon-2-2023-Grp51/assets/137881290/8e874451-6766-4037-a906-b4a4a8fd0fb8)
 
-10. **Save your progress**
+7. **Save your progress**
 - the hero's status will be saved, while the player loading the game, it will get the same information as previous one
 ![save progress (2)](https://github.com/WanShanJie/Hackathon-2-2023-Grp51/assets/137881290/dc54da7c-d264-4360-9d8e-13a5da08692e)
 
 ![program loading (2)](https://github.com/WanShanJie/Hackathon-2-2023-Grp51/assets/137881290/1903a6b2-1032-41b5-b84d-945144fbfd60)
 
-11. Mana
+8. Mana
 - mana not enough, used mana regeneration to regain mana, since every move needs mana to support
 ![mana not enough (2)](https://github.com/WanShanJie/Hackathon-2-2023-Grp51/assets/137881290/799b90ed-7101-4c66-9a46-1bc5d8122a24)
 
 
-12. Healing
+9. Healing
 - Health is getting low, heal yourself
 ![healing (2)](https://github.com/WanShanJie/Hackathon-2-2023-Grp51/assets/137881290/96237605-bf91-4b11-831e-e188d5c57d53)
 
