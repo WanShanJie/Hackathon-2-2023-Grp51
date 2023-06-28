@@ -6,7 +6,7 @@ CPT113 HACKATHON 2
 (GROUP 51)
 
 LECTURER:
-DR. TEH JE SEN, DR. NUR HANA SAMSUDIN
+DR.TEH JE SEN, DR.NUR HANA SAMSUDIN, DR. SITI HAZYANTI MOHD HASHIM
 
 PREPARED By:   
 TAN WEI YI   : 163210   
@@ -93,14 +93,13 @@ Templates allow writing the code that can work with different data types. The Li
 ## How linked lists/stacks/queues play a role in the game   
 The LinkedList class is utilized to create a list of Move objects in the Hero class. The moveList object represents the moves that the Hero can learn and use during the game. The LinkedList allows for dynamic insertion, deletion, and traversal of moves. It provides methods such as insertNode(), deleteNode(), searchNode(), and displayList() to manage the moves.
 
-1. 'ListNode' class represents a single node in the linked list. It contains two members: value, which stores the actual data, and 'next', which is a pointer to the next node in the list.
-2. The 'LinkedList' class represents the linked list itself. It has a private member 'head', which is a pointer to the first node in the list, and an integer 'num' to keep track of the number of nodes in the list.
-- appendNode:   
-  The appendNode member function accept
-- insertNode
-- deleteNode
-- searchNode
-- displayList
+In the game where a hero can learn moves, store them in their move list, and perform various operations on the move list using the LinkedList class.
+- insertNode:
+This function inserts a new move at the appropriate position in the linked list based on the move's type. If the player would like to add the moves into the move list, it will be used to insert the hero name, value, mana and type.
+- deleteNode:
+Deletes a move from the move list based on the provided search value. It traverses the linked list, if the move of the hero are achieved 5 moves, the player needs to delete one of them to add the new move.
+- searchNode:   
+This member function searches for a move in the move list based on the provided search value. It traverses the linked list and compares the move's name with the search value. It returns true if the move is found, and false otherwise if the player want to choose the move to attack. It also used to determine the number of moves that a hero has, and record down the total number of moves. 
 ## Screenshots of game   
 
 
