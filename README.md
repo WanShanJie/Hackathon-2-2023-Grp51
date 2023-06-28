@@ -55,7 +55,7 @@ With its rich lore, engaging gameplay, and diverse choices, the text-based game 
 
 ## How to play the Game 
 1. Start the game by selecting **"Start New Game"** from the game menu.
-2. The storyline will start and you're prompted to choose a hero by entering the corresponding number(1-3). In this case, you can selecte one hero based on their background and abilities
+2. The storyline will start and you're prompted to choose a hero by entering the corresponding number(1-3). In this case, you can select one hero based on their background and abilities
 4. After selecting your hero, you will be presented with options in the game menu. Choose **"Continue the adventure"** to proceed.
 5. The game will describe the setting and present you with a scenario, in this case, encountering a Goblin in the forest (A first try to encounter a moster: beginner tutorial).
 6. Choose a move to attack by entering the corresponding number from the list of available moves.
@@ -99,7 +99,7 @@ This function inserts a new move at the appropriate position in the linked list 
 - deleteNode:
 Deletes a move from the move list based on the provided search value. It traverses the linked list, if the move of the hero are achieved 5 moves, the player needs to delete one of them to add the new move.
 - searchNode:   
-This member function searches for a move in the move list based on the provided search value. It traverses the linked list and compares the move's name with the search value. It returns true if the move is found, and false otherwise if the player want to choose the move to attack. It also used to determine the number of moves that a hero has, and record down the total number of moves.
+This member function searches for a move in the move list based on the provided search value. It traverses the linked list and compares the move's name with the search value. If the move want to be deleted is found, then it will be deleted. 
 
 ## Screenshots of game   
 1. Display the menu of the game and choce 1 to strat a game
@@ -143,7 +143,6 @@ This member function searches for a move in the move list based on the provided 
 8. Mana
 - mana not enough, used mana regeneration to regain mana, since every move needs mana to support
 ![mana not enough (2)](https://github.com/WanShanJie/Hackathon-2-2023-Grp51/assets/137881290/799b90ed-7101-4c66-9a46-1bc5d8122a24)
-
 
 9. Healing
 - Health is getting low, heal yourself
